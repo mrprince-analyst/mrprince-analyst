@@ -1,5 +1,7 @@
 # Hi, I'm Prince H 👋
 
+![Image](https://github.com/user-attachments/assets/79ad940e-9087-4370-94d7-b67a0183bb83)
+
 Quality Analyst with 5 years of experience in US Healthcare RCM.
 
 Currently transitioning into Data Analytics.
