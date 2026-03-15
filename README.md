@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Prince H 👋
 
-<!--
-**mrprince-analyst/mrprince-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quality Analyst with 5 years of experience in US Healthcare RCM.
 
-Here are some ideas to get you started:
+Currently transitioning into Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Dashboard Creation
+
+## Projects
+- Excel Sales Dashboard
+- Healthcare Billing Data Analysis
+- Data Cleaning Project
+
+## Connect with me
+Email: princej.analyst@gmail.com
+LinkedIn: linkedin.com/in/mrprinceh
